@@ -3,6 +3,5 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Hi** 
+I am Siheng, you can also call me Collin. I am currently a fourth year undergrad studying Engineering Science @ University of Oxford. I am also carrying out research related to JAX MARL in FLAIR.
